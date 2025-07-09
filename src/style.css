@@ -1,0 +1,16 @@
+/* Mobile-first default styles (no media query) */
+
+/* tablets */
+@media (min-width: 768px) {
+
+}
+
+/* small desktop */
+@media (min-width: 992px) {
+
+}
+/* large desktops */
+@media (min-width: 1200px) {
+
+}
+  
