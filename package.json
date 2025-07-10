@@ -5,7 +5,7 @@
   "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack", 
+    "build": "webpack",
     "start": "webpack serve"
   },
   "repository": {
@@ -21,6 +21,7 @@
   "homepage": "https://github.com/RodolfoNoguez/homepage#readme",
   "devDependencies": {
     "css-loader": "^7.1.2",
+    "file-loader": "^6.2.0",
     "html-loader": "^5.1.0",
     "html-webpack-plugin": "^5.6.3",
     "style-loader": "^4.0.0",
