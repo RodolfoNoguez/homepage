@@ -19,7 +19,7 @@ body {
     color: #f1f1f1;
     padding-bottom: 2rem;
     text-align: center;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5); /* only bottom */
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
 
 }
 
@@ -56,13 +56,6 @@ body {
     padding-right: 1rem;
     text-align: left;
 }
-
-
-
-
-
-
-
 
 
 /* notecard css */
